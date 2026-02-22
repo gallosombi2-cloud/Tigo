@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TigoSportsPY" tvg-logo="https://i.imgur.com/8N4Zf7j.png" group-title="DEPORTES", Tigo Sports Paraguay
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/py.m3u
+
+#EXTINF:-1 tvg-id="Telefuturo" tvg-logo="https://i.imgur.com/W8bYp2h.png" group-title="AIRE PY", Telefuturo
+https://telefuturo-live.akamaized.net/hls/live/2042749/tf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SNT" tvg-logo="https://i.imgur.com/7Xq9T6L.png" group-title="AIRE PY", SNT Canal 9
+https://snt-live.akamaized.net/hls/live/2042750/snt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trece" tvg-logo="https://i.imgur.com/3Z4Y5X6.png" group-title="AIRE PY", Canal Trece
+https://trece-live.akamaized.net/hls/live/2042751/trece/playlist.m3u8
